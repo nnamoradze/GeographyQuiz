@@ -1,4 +1,4 @@
-# Geography quiz with three level of test
+# Geography quiz with three levels of test
 
 ### GeoQuiz has been created to challenge yourself by your knowledge of geography.
 
