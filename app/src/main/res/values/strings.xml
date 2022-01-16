@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GeoQuiz</string>
+    <string name="email">იმეილი</string>
+    <string name="reset_password">პაროლის აღდგენა</string>
+    <string name="password">პაროლი</string>
+    <string name="login">შესვლა</string>
+    <string name="registration">რეგისტრაცია</string>
+    <string name="quizTitle">ქვიზი გეოგრაფიაში</string>
+    <string name="insta">n_namoradze/instagram</string>
+    <string name="facebook">nika namoradze/facebook</string>
+    <string name="name">სახელი</string>
+    <string name="lastName">გვარი</string>
+    <string name="age">ასაკი</string>
+    <string name="easyScore">მარტივი ტესტის ქულა</string>
+    <string name="mediumScore">საშუალო ტესტის ქულა</string>
+    <string name="hardScore">რთული ტესტის ქულა</string>
+    <string name="changePassword">პაროლის შეცვლა</string>
+    <string name="newPassword">ახალი პაროლი</string>
+    <string name="confirmNewPass">გაიმეორე პაროლი</string>
+    <string name="change">შეცვლა</string>
+    <string name="questions">question</string>
+    <string name="answer1" tools:ignore="Typos">answer1</string>
+    <string name="answer2">answer2</string>
+    <string name="answer3">answer3</string>
+    <string name="selectLevel">აირჩიეთ სირთულე</string>
+    <string name="easy">მარტივი</string>
+    <string name="medium">საშუალო</string>
+    <string name="hard">რთული</string>
+    <string name="goback">უკან დაბრუნება</string>
+    <string name="logout">გასვლა</string>
+    <string name="photo">ფოტო</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/loginFragment"
+        android:icon="@drawable/home_icon"
+        android:title="შესვლა" />
+
+    <item
+        android:id="@+id/levelsFragment"
+        android:icon="@drawable/levels_icon"
+        android:title="კითხვები" />
+
+    <item
+        android:id="@+id/profileFragment2"
+        android:icon="@drawable/person"
+        android:title="პროფილი" />
+
+
+</menu>
