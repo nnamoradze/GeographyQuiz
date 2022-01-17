@@ -1,4 +1,4 @@
-# Geography quiz with three levels of test
+# Geography quiz application with three levels of test
 
 ### GeoQuiz has been created to challenge yourself by your knowledge of geography.
 
@@ -18,7 +18,7 @@ App is available for android 5.0 and above
 
 
 
-# გეოგრაფიის აპლიკაცია 3 დონის ტესტით
+# გეოგრაფიული ქვიზის აპლიკაცია 3 დონის ტესტით
 
 ### GeoQuiz შეიქმნა რათა გამოსცადო საკუთარი თავი გეოგრაფიის ცოდნაში.
 
