@@ -2,7 +2,9 @@ package com.example.basketquiz.fragments
 
 import android.os.Bundle
 import android.view.View
+import androidx.appcompat.widget.AppCompatButton
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.basketquiz.Adapters.MyAdapter
@@ -15,6 +17,8 @@ class AdminFragment : Fragment(R.layout.admin_fragment) {
     private lateinit var dataBaseReference: DatabaseReference
     private lateinit var adminRecyclerView: RecyclerView
     private lateinit var userArrayList: ArrayList<User>
+
+    private lateinit var goBackButton: AppCompatButton
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -30,6 +34,14 @@ class AdminFragment : Fragment(R.layout.admin_fragment) {
         userArrayList = arrayListOf<User>()
 
         getUserInfo()
+
+        goBackButton = view.findViewById(R.id.goBackToLogin)
+
+        goBackButton.setOnClickListener {
+
+            findNavController().navigate(AdminFragmentDirections.actionAdminFragmentToLoginFragment())
+
+        }
 
 
     }
