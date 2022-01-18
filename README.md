@@ -16,22 +16,3 @@ When the user installs app, he/she needs to create an account. After that there 
 
 App is available for android 5.0 and above
 
-
-
-# გეოგრაფიული ქვიზის აპლიკაცია 3 დონის ტესტით
-
-### GeoQuiz შეიქმნა რათა გამოსცადო საკუთარი თავი გეოგრაფიის ცოდნაში.
-
-როდესაც მომხმარებელი აინსტალირებს აპლიკაციას, ის ქმნის ანგარიშს. შემდეგ შეხვდება სამი დონის ტესტი(მარტივი, საშუალო და რთული), მას შემდეგ რაც ის ტესტს დაასრულებს პროფილზე ექნება საკუთარი მიღწევები.
-
-### გამოყენებული რესურსები:
-* Google Firebase (Authentication, Realtime Database) 
-* BottomNavigationMenu
-* RecyclerView
-* Fragments
-* Glide
-* Splash Screen
-* Animations
-
-
-აპლიკაცია განკუთვნილია android 5.0 ან უფრო ახლისთვის
